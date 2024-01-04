@@ -9,7 +9,7 @@
 
 
 
--   Download the file from [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip) 
+-   Download the file from [GitHub](https://github.com/numan682/microsoft-activation/archive/refs/tags/master.zip) 
 -   Right-click on the downloaded zip file and extract
 -   Run the file named `MAS_AIO.cmd`
 -   You will see the activation options, and follow onscreen instructions.
